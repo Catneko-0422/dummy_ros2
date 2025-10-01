@@ -1,4 +1,0 @@
-float64[6] pose  # x y z r p y (m, rad)
----
-bool success
-string message

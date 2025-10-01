@@ -1,5 +1,0 @@
-float64[6] pose
-bool[6] mask
----
-bool success
-string message
